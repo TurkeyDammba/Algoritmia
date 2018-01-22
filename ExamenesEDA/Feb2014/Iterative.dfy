@@ -1,3 +1,4 @@
+**ESPECIFICACION REALIZADA EN DAFNY**
 
 function Sum(s:seq<int>):int
 ensures s==[] ==> Sum(s) == 0
